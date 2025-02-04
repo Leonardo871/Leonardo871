@@ -10,3 +10,4 @@
 
 # Status GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leonardo871&theme=android-dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo871&show_icons=true)
