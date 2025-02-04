@@ -9,4 +9,4 @@
 
 
 # Status GitHub
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo871&theme=android-dark&hide_border=falso&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leonardo871&theme=android-dark)](https://git.io/streak-stats)
