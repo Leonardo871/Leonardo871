@@ -15,13 +15,13 @@
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10;"
-    src="(https://github-readme-stats.vercel.app/api?username=Leonardo871&show_icons=true&theme=dark)"
+    src="https://github-readme-stats.vercel.app/api?username=Leonardo871&show_icons=true&theme=dark"
  />
  <img
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo871&layout=compact&theme=dark)"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo871&layout=compact&theme=dark"
  />
  
 </p>
