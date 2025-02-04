@@ -21,7 +21,7 @@
     align="left"
     alt="GitHub Stats"
     height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo871&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo871&theme=dark&layout=donut"
  />
  
 </p>
