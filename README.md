@@ -14,7 +14,7 @@
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
+    style="padding-right: 10;"
     src="(https://github-readme-stats.vercel.app/api?username=Leonardo871&show_icons=true&theme=dark)"
  />
  <img
